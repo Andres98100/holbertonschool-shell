@@ -1,2 +1,2 @@
 #!/bin/bash
-mv /tmp/my_first_directory betty
+mv betty my_first_directory
