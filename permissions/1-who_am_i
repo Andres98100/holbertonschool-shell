@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo id -un
+su id -u -n
