@@ -1,2 +1,2 @@
 #!/bin/bash
-cut -d ' ' -f1 "\n"
+echo $(cut -b 1 |tr -d "\n") 
