@@ -1,2 +1,2 @@
 #!/bin/bash
-tr tr A-Za-z N-ZA-Mn-za-m
+echo $(tr tr A-Za-z N-ZA-Mn-za-m)
