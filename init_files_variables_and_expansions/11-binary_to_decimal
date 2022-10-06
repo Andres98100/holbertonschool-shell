@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "$BINARY=%d\n"$((10#BINARY))
+echo $((10#$BINARY))
