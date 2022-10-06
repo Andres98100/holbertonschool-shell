@@ -1,2 +1,2 @@
 #!/bin/bash
-echo BINARY | xxd
+echo BINARY | xxd -p
