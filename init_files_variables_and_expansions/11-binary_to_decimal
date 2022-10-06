@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(cut -d fBINARY**2)
+echo $(cut -d -fBINARY**2)
