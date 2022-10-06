@@ -1,2 +1,2 @@
 #!/bin/bash
-echo BINARY | xxd -c 10
+echo $(head -c 10 BINARY | xxd)
