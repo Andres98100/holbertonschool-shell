@@ -1,2 +1,2 @@
 #!/bin/bash
-echo BINARY | hexdump -d
+echo BINARY | xxd -c 10
