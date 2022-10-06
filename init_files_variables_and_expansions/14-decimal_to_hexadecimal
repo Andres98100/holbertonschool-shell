@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(($DECIMAL | xxd))
+echo $(printf "%x\n" $DECIMAL)
