@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(BINARY | xxd)
+echo $((10#BINARY))
